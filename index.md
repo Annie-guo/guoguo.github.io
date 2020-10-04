@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## 欢迎来到果果的小世界
 
-You can use the [editor on GitHub](https://github.com/Annie-guo/guoguo.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+开朗，活泼，乐观，向上是每个认识我的人对我的共同评价(https://github.com/Annie-guo/guoguo.github.io/edit/gh-pages/index.md) 可以说：“果果是个小太阳，浑身充满正能量。”
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+果果真心的希望，当屏幕前的你打开这个网址的那一刻，也能收获无比的快乐。
 
-### Markdown
+### 我就是我
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我叫国汐如，18岁，就读于北京大学公共卫生学院预防医学七年制，爱好广泛，爱交朋友，希望和屏幕前的你成为朋友。
 
 ```markdown
-Syntax highlighted code block
+“长江后浪推前浪，一浪更比一浪强。”很小的我相信，我可以超越许多传奇英雄。
+“高处不胜寒，起舞弄清影，何似在人间。”后来，我慢慢知道有时卓越是要接受内心的孤独，超越凡俗。
+“登山则情满于山，观海则意溢于海。”原来专注才是那样让人充实和满足。
+“追着那道光，去寻找方向。”梦想的意义在于什么？实现了它意义在于那份成就感；追逐它本身就让你的人生充满价值。
+“生活不止眼前的苟且，还有诗和远方的田野。”我永远相信，风景就在指尖流淌的一分一秒中。
 
-# Header 1
-## Header 2
-### Header 3
+加油，果果
+加油，屏幕前的你
 
-- Bulleted
-- List
+加油，每个在路上的人
+加油，无论你在哪个角落
 
-1. Numbered
-2. List
+今年我十八岁，是一个人生的转折点。屏幕前的你，十八岁又在哪里呢？
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+你若未到十八岁，请好好读书，珍惜每寸光景，汗水永远不会让你失望。你若过了十八岁，请回想一下，你的初心、你十八岁时背上的行囊，它还在吗？
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+愿你享受当下，充实有价值地度过余生(https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+###仰望星空.
+现在的一个计算机小白，下次的果果在点击进入时，你的水平会有怎样的飞跃？你又实现了你现在心中的理想吗？
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Annie-guo/guoguo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 脚踏实地
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+人比山高(https://docs.github.com/categories/github-pages-basics/) or 脚比路长(https://github.com/contact) 
